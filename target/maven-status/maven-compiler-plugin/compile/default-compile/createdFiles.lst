@@ -1,0 +1,4 @@
+kz\task\db\entity\main\MainResources.class
+kz\task\servlet\MainServlet.class
+kz\task\db\core\JDBCUtils.class
+kz\task\db\entity\main\Main.class
